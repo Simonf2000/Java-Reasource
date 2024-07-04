@@ -40,7 +40,14 @@ module.exports = {                      //./deploy.sh
               { title: "面向对象基础（下）", path: "/JavaSE/尚硅谷_李金辉_JavaSE_第8章 面向对象基础（下）.md" },
               { title: "异常", path: "/JavaSE/尚硅谷_李金辉_JavaSE_第8章 异常.md" },
               { title: "集合", path: "/JavaSE/尚硅谷_李金辉_JavaSE_第11章 集合.md" },
-              { title: "泛型", path: "/JavaSE/尚硅谷_李金辉_JavaSE_第12章 泛型.md" }
+              { title: "泛型", path: "/JavaSE/尚硅谷_李金辉_JavaSE_第12章 泛型.md" },
+              { title: "File类与IO流", path: "/JavaSE/尚硅谷_李金辉_JavaSE_第13章 File类与IO流.md" },
+              { title: "多线程", path: "/JavaSE/尚硅谷_李金辉_JavaSE_第14章 多线程.md" },
+              { title: "网络编程", path: "/JavaSE/尚硅谷-李金辉-JavaSE-第15章 网络编程.md" },
+              { title: "反射", path: "/JavaSE/尚硅谷-李金辉-JavaSE-第16章 反射（Reflect）.md" },
+              { title: "类的加载器", path: "/JavaSE/类的加载器.md" },
+              { title: "JDK新特性", path: "/JavaSE/尚硅谷-李金辉-JavaSE-第17章 JDK新特性.md" },
+              { title: "JavaSE复习", path: "/JavaSE/JavaSE复习笔记.md" }
           ]
       },
       {
