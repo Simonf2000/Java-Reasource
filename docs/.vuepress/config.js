@@ -56,7 +56,9 @@ module.exports = {                      //./deploy.sh
         collapsable: false, // 不折叠
         children: [
           { title: "可视化工具Navicat的使用", path: "/MySQL/尚硅谷_柴林燕_MySQL8_可视化工具Navicat的使用.md" },
-          { title: "MySQL8.0_安装和使用文档", path: "/MySQL/尚硅谷_柴林燕_MySQL8.0_安装和使用文档.md" }
+          { title: "MySQL8.0_安装和使用文档", path: "/MySQL/尚硅谷_柴林燕_MySQL8.0_安装和使用文档.md" },
+          { title: "SQL笔记", path: "/MySQL/尚硅谷_柴林燕_MySQL8.0_SQL笔记.md" },
+          { title: "JDBC笔记", path: "/MySQL/尚硅谷_柴林燕_MySQL8.0_JDBC笔记.md" }
         ],
       }
     ], // 侧边栏配置
