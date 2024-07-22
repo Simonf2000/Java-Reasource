@@ -24,7 +24,7 @@ module.exports = {                      //./deploy.sh
       {
           title: 'JavaSE',
           path: '/JavaSE/安装笔记',
-          collapsable: false, // 不折叠
+          collapsable: true, // 不折叠
           children: [
             //图片地址换成能显示的
               { title: "安装笔记", path: "/JavaSE/安装笔记.md" },
@@ -53,11 +53,22 @@ module.exports = {                      //./deploy.sh
       {
         title: "MySQL",
         path: '/MySQL/尚硅谷_柴林燕_MySQL8_可视化工具Navicat的使用',
-        collapsable: false, // 不折叠
+        collapsable: true, // 不折叠
         children: [
           { title: "可视化工具Navicat的使用", path: "/MySQL/尚硅谷_柴林燕_MySQL8_可视化工具Navicat的使用.md" },
           { title: "MySQL8.0_安装和使用文档", path: "/MySQL/尚硅谷_柴林燕_MySQL8.0_安装和使用文档.md" },
           { title: "SQL笔记", path: "/MySQL/尚硅谷_柴林燕_MySQL8.0_SQL笔记.md" },
+          { title: "JDBC笔记", path: "/MySQL/尚硅谷_柴林燕_MySQL8.0_JDBC笔记.md" }
+        ],
+      },
+      {
+        title: "JavaEE",
+        path: '/JavaEE/day01_jdbc',
+        collapsable: true, // 不折叠
+        children: [
+          { title: "JDBC的介绍", path: "/JavaEE/day01_jdbc.md" },
+          { title: "JDBC的HelloWorld", path: "/JavaEE/day02_jdbc.md" },
+          { title: "HTML", path: "/JavaEE/day03_HTML.md" },
           { title: "JDBC笔记", path: "/MySQL/尚硅谷_柴林燕_MySQL8.0_JDBC笔记.md" }
         ],
       }
